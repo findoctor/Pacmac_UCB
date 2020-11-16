@@ -54,7 +54,7 @@ def createTeam(firstIndex, secondIndex, isRed,
 offenseIndex = None
 defenseIndex = None
 
-
+# Define the dummy class
 class DummyAgent(CaptureAgent):
   """
   A Dummy agent to serve as an example of the necessary agent structure.
