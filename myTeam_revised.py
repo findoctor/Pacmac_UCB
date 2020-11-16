@@ -55,6 +55,7 @@ offenseIndex = None
 defenseIndex = None
 
 # Define the dummy class here
+# revised by user2
 class DummyAgent(CaptureAgent):
   """
   A Dummy agent to serve as an example of the necessary agent structure.
