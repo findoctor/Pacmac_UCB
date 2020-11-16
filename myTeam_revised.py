@@ -55,6 +55,7 @@ offenseIndex = None
 defenseIndex = None
 
 # Define the dummy class here
+# new comment after init upstream branch remotely
 class DummyAgent(CaptureAgent):
   """
   A Dummy agent to serve as an example of the necessary agent structure.
